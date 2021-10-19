@@ -1,6 +1,6 @@
 function unusualFive() {
 
-  var a = "asdfg"
+  var a = "five!"
 
   return a.length
 }
